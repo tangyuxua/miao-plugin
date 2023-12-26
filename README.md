@@ -53,7 +53,7 @@ pnpm install -P
 
 #### #更新面板
 
-`#更新面板` 依赖于面板查询API，面板服务由 http://enka.network/ 提供。
+`#更新面板`依赖于面板查询API，面板服务由 http://enka.network/ 提供。
 
 > 查询功能经Enka官方授权([issue#63](https://github.com/yoimiya-kokomi/miao-plugin/issues/63#issuecomment-1199348789))，感谢Enka提供的面板查询服务
 >
